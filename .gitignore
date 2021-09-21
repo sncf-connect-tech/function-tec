@@ -1,0 +1,21 @@
+.tmp
+*~
+*.bak
+*.lnk
+*.orig
+*.rej
+*.tmp
+
+# compiled
+bin/
+classes/
+target/
+work/
+*.class
+
+# IDE
+.idea
+.metadata
+.project
+.settings
+*.iml
